@@ -52,6 +52,8 @@ https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-deve
         - [Sachin](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-sachin.png)
         - [Sehwag](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-sehwag.png)
         - [Sreeshanth](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-sreeshanth.jpg)
+
+         https://prashanths123.github.io/Cric-pro./
         - [Suresh Raina](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-suresh-raina.jpg)
         - [Virat Kohli](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-virat-kohli.png)
         - [Yuvraj](https://s3.ap-south-1.amazonaws.com/kalvi-education.github.io/front-end-web-development/cricpro-yuvraj.png)
